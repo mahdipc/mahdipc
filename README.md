@@ -76,12 +76,6 @@ My strongest area is turning slow, fragile, high-traffic backend systems into sc
 
 ---
 
-### GitHub activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahdipc&show_icons=true&hide_title=true&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdipc&layout=compact&hide_border=true" height="150" />
-</p>
 
 ---
 
